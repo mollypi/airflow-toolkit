@@ -1,5 +1,7 @@
 ![repo_log](/docs/repo_logo.png)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/22ba6960-33e7-4ca0-99c9-0635d24e8d96.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/airflow-toolkit?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/deb25f90-8a8d-4a5e-afb3-34dd6c139c5d.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/airflow-toolkit?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/013c2dd3-adfa-49f2-834b-290723116636.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/airflow-toolkit?orgId=561911742905)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/8e013b19-1a53-498b-8518-1a69bcb129e1.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/airflow-toolkit?orgId=561911742905)  
+
 > `SAME AIRFLOW DATA PIPELINES | WHEREVER YOU RUN THEM`
 
 # airflow-toolkit :rocket:
